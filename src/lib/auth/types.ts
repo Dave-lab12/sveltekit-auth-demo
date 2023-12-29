@@ -1,0 +1,1 @@
+export type LoginParams = { email: string | FormDataEntryValue | null, password: string | FormDataEntryValue | null, otherData?: object }
